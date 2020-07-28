@@ -11,7 +11,11 @@
     "test": "jest",
     "test:watch": "jest --watch"
   },
-  "author": "",
+  "author": "Avcajaraville",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/Avcajaraville/boilerplate"
+  },
   "license": "ISC",
   "dependencies": {
     "@babel/core": "^7.10.5",
